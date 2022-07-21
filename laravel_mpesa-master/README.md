@@ -25,7 +25,7 @@ You are looking at it. But we've also got [beautiful, fully navigable docs](http
 You can install this awesome package via composer
 
 ```sh
-composer require gathuku/laravelmpesa
+composer require sparkworld/laravel-mpesa
 ```
 If you're using Laravel >=5.5, this is all you have to do.
 
