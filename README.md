@@ -23,6 +23,7 @@ You are looking at it. But we've also got [beautiful, fully navigable docs](http
 
 ## Installation
 You can install this awesome package via composer
+Extension of https://github.com/gathuku/laravel_mpesa
 
 ```sh
 composer require sparkworld/laravel-mpesa
