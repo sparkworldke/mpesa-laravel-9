@@ -1,7 +1,7 @@
 {
     "name": "sparkworld/laravel-mpesa",
     "description": "A simple mpesa package for laravel framework",
-    "homepage": "https://github/Sparkworld-Enterprises/laravel-mpesa",
+    "homepage": "https://github.com/sparkworldke/laravel-mpesa",
     "keywords": [
       "mpesa",
       "laravel",
